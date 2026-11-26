@@ -1,10 +1,14 @@
 # 🎨 Poetry Wall
 
-### Illustrating live poetry readings with Speech Recognition, OpenAI and generative images
+> **Current version: [Poetry Wall 2.0](README-2.0.md)** — Pollinations free tier, no API keys, text-input mode, 16 styles, session manifests, slideshow gallery and a local image fallback. Start there.
+>
+> The documentation below describes the original **1.0 (2023)** installation with OpenAI/DALL·E 2, kept for reference.
+
+### Illustrating live poetry readings with Speech Recognition, OpenAI and generative images (1.0)
 
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-3-C51A4A.svg)](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
+[![Pollinations](https://img.shields.io/badge/LLM-Pollinations-green.svg)](https://pollinations.ai/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-API-black.svg)](https://platform.openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Roni Bandini — Buenos Aires, Argentina — March 2023**
